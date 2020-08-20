@@ -39,7 +39,7 @@ Aplicação Web em ReactJS e TypeScript, clone estático e fidedigno da principa
   <li>Favicon</li>
   <li>Google Fonts</li>
   <li>styled-components</li>
-  <li>styled-icons Material</li>
+  <li>react-icons</li>
   <li>useState</li>
   <li>useEffect</li>
 </ul>
