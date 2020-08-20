@@ -12,7 +12,7 @@
 
 <br>
 
-![logo](./src/assets/images/linkedin.svg)
+![logo](./src/assets/images/linkedin_64.svg)
 
 </div>
 
@@ -23,7 +23,7 @@ Aplicação Web em ReactJS e TypeScript, clone estático e fidedigno da principa
 <br><br>
 
 <div align="center">
-  
+
 ![linkedin-web](./src/assets/images/layout.gif)
 
 </div>
@@ -75,6 +75,6 @@ Aplicação Web em ReactJS e TypeScript, clone estático e fidedigno da principa
 ## Licença
 - Licença MIT
 
-<br><br>
+<br>
 
 ## :mega: Pronto!
