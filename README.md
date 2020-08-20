@@ -34,6 +34,7 @@ Aplicação Web em ReactJS e TypeScript, clone estático e fidedigno da principa
 <ul>
   <li>ReactJS</li>
   <li>TypeScript</li>
+  <li>Shimmer Effect</li>
   <li>Components</li>
   <li>Favicon</li>
   <li>Google Fonts</li>
