@@ -24,6 +24,7 @@ Aplicação Web em ReactJS e TypeScript, clone estático e fidedigno da principa
 
 <div align="center">
 
+![Demo on Netlify](https://distracted-dijkstra-d93db6.netlify.app/)
 ![linkedin-web](./src/assets/images/layout.gif)
 
 </div>
